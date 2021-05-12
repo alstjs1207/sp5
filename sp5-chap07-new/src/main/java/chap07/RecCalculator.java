@@ -10,4 +10,9 @@ public class RecCalculator implements Calculator {
             return num * factorial(num - 1);
 	}
 
+    @Override
+    public void before() {
+
+    }
+
 }

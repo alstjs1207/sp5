@@ -19,4 +19,9 @@ public class ExeTimeCalculator implements Calculator {
 		return result;
 	}
 
+	@Override
+	public void before() {
+
+	}
+
 }
