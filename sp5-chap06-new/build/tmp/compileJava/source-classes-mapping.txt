@@ -1,12 +1,12 @@
-main/MainWithPrototype.java
- main.MainWithPrototype
-spring/Client.java
- spring.Client
-main/Main.java
- main.Main
 config/AppCtx.java
  config.AppCtx
 config/AppCtxWithPrototype.java
  config.AppCtxWithPrototype
+spring/Client.java
+ spring.Client
+main/Main.java
+ main.Main
 spring/Client2.java
  spring.Client2
+main/MainWithPrototype.java
+ main.MainWithPrototype
